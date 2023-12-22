@@ -1,0 +1,42 @@
+[
+    {
+        "x": 228,
+        "y": 452,
+        "w": 143,
+        "h": 60,
+        "name_cropped": "cropped_0.png",
+        "similar_images": [
+            "cropped_0.png"
+        ]
+    },
+    {
+        "x": 453,
+        "y": 243,
+        "w": 193,
+        "h": 216,
+        "name_cropped": "cropped_1.png",
+        "similar_images": [
+            "cropped_1.png"
+        ]
+    },
+    {
+        "x": 79,
+        "y": 132,
+        "w": 242,
+        "h": 201,
+        "name_cropped": "cropped_2.png",
+        "similar_images": [
+            "cropped_2.png"
+        ]
+    },
+    {
+        "x": 496,
+        "y": 80,
+        "w": 203,
+        "h": 100,
+        "name_cropped": "cropped_3.png",
+        "similar_images": [
+            "cropped_3.png"
+        ]
+    }
+]
